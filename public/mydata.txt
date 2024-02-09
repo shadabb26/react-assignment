@@ -1,0 +1,1 @@
+hello this is the data we fetched for exercise 4 from mydata.txt using componentDidMount Method
